@@ -18,8 +18,7 @@ dist-ssr
 ./Datascience__pycache__/
 ./Datascienceinstance/
 ./Datasciencemigrations/
-./Datascience/src/Database/guides/
-./Datascience/src/data/csv/
+./Datascience/*/guides/
 
 
 
