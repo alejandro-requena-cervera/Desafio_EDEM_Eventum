@@ -1,21 +1,7 @@
 
  <img src="./src/assets/images/banner.jpg"> </img>
  
-  <h1 align="center" id="top">Eventum - Back end</h1>
-  <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/saraoriola/poppaBack">
-        <img height="200" width="200" src="https://static.thenounproject.com/png/995861-200.png" 
-        alt="Back-end Project">
-      </a>
-      <br>
-      <a href="https://github.com/saraoriola/poppaBack">Back-end Project</a>
-    </td>
-  </tr>
-</table>
- 
-  <h1 align="center" id="top">Eventum - Front end</h1>
+<h1 align="center" id="top">Eventum - Front end</h1>
 
 
 Eventum is an application designed to optimize and automate the process of creating, managing, and confirming events at **Marina de Empresas**. Its main purpose is to improve operational efficiency and provide a more convenient user experience for participants who wish to attend our events.
@@ -600,6 +586,21 @@ git push origin my-contribution
       </a>
       <br>
       <a href="https://www.linkedin.com/in/alan-estruch-gomez-9b4a61277/">Alan Estruch Gómez</a>
+    </td>
+  </tr>
+</table>
+
+
+<h1 align="center" id="top">Eventum - Back end</h1>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/saraoriola/poppaBack">
+        <img height="512" width="512" src="https://cdn-icons-png.flaticon.com/512/8099/8099442.png" 
+        alt="Back-end Project">
+      </a>
+      <br>
+      <a href="https://github.com/saraoriola/poppaBack">Back-end Project</a>
     </td>
   </tr>
 </table>
