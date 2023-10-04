@@ -596,7 +596,7 @@ git push origin my-contribution
   <tr>
     <td align="center">
       <a href="https://github.com/saraoriola/poppaBack">
-        <img height="512" width="512" src="https://cdn-icons-png.flaticon.com/512/8099/8099442.png" 
+        <img height="300" width="300" src="https://cdn-icons-png.flaticon.com/512/8099/8099442.png" 
         alt="Back-end Project">
       </a>
       <br>
