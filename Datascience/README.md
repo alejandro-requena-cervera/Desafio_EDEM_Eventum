@@ -1,7 +1,7 @@
 ## Data Contents
-|App is deployed in [Fl0](https://www.fl0.com)|Database is deployed on [AWS RDS](https://aws.amazon.com/rds/)|
+|Developed Using Python|Built Using Flask|
 |--|--|
-|<img alt="fl0 Logo" src="https://avatars.githubusercontent.com/u/118862654?s=200&v=4" width="200">|<img alt="AWS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="200">|
+|<img alt="Python Logo" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="200">|<img alt="Python Logo" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" width="200">|
 
 ### Directory "src/data/csv"
 <table cellspacing="20">
