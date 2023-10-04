@@ -1,6 +1,20 @@
 
  <img src="./src/assets/images/banner.jpg"> </img>
  
+  <h1 align="center" id="top">Eventum - Back end</h1>
+  <table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/saraoriola/poppaBack">
+        <img height="200" width="200" src="https://static.thenounproject.com/png/995861-200.png" 
+        alt="Back-end Project">
+      </a>
+      <br>
+      <a href="https://github.com/saraoriola/poppaBack">Back-end Project</a>
+    </td>
+  </tr>
+</table>
+ 
   <h1 align="center" id="top">Eventum - Front end</h1>
 
 
@@ -392,13 +406,13 @@ To deploy your React and Redux application to a production server, you'll need t
 # Data Science Overview:
 
 -  Data Acquisition, Analysis, Visualization: acquiring, analyzing, and visualizing data.
-- Application Development with Python and Django: The core of our applications is built using the Django framework.
+- Application Development with Python and Flask: The core of our applications is built using the Falsk framework.
 - Data: contribution to the Database.
 
 <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/128/1387/1387537.png">
 <img align="center"  height="50" width="50" src="https://cdn-icons-png.flaticon.com/128/1849/1849554.png">
 <img align="center" height="50" width="50" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-<img align="center" height="50" width="50" src="https://i.postimg.cc/HnSbx2tG/Django-Logo-768x480.png">
+<img align="center" height="50" width="100" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
 
 --
 
