@@ -1,26 +1,72 @@
 ## Data Contents
+|App is deployed in [Fl0](https://www.fl0.com)|Database is deployed on [AWS RDS](https://aws.amazon.com/rds/)|
+|--|--|
+|<img alt="fl0 Logo" src="https://avatars.githubusercontent.com/u/118862654?s=200&v=4" width="200">|<img alt="AWS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="200">|
 
 ### Directory "src/data/csv"
-This directory contains a collection of synthetic data in CSV files, meticulously prepared for populating our database.
+<table cellspacing="20">
+  <tr>
+    <td><img src="https://www.svgrepo.com/show/104744/csv-file-format-extension.svg" alt="Logo" width="100"></td>
+    <td>This directory contains a collection of synthetic data in CSV files, meticulously prepared for populating our database.</td>
+  </tr>
+</table>
 
 ### Directory "src/database/DB_Connection_AWS.ipynb"
-This Jupyter Notebook file contains the code used for creating and populating the database on AWS.
+<table cellspacing="20">
+  <tr>
+    <td><img src="https://i0.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?fit=600%2C400&ssl=1" alt="Logo" width="100"></td>
+    <td>This Jupyter Notebook file contains the code used for creating and populating the MySQL database on AWS.</td>
+  </tr>
+</table>
 
 ### Directory "src/database/DB_Connection_POSTGRES.ipynb"
-This Jupyter Notebook file contains the code used for creating and populating the database on Render.
+<table cellspacing="20">
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="Logo" width="100"></td>
+    <td>This Jupyter Notebook file contains the code used for creating and populating the PostgreSQL database on Render.</td>
+  </tr>
+</table>
 
 ### File "src/api_data.py"
 This Python script serves as the core of our data API, offering the following services:
 
-- **"/"** --> 'Hello world': A simple greeting to ensure the API is up and running.
-
-- **"/get_sentiment_analysis_feedback"** --> Sentiment Analysis: Provides sentiment analysis for messages posted in the Forum as feedback.
-
-- **"/get_cover_image"** --> Cover Image Generation: Generates an image based on the event title.
-
-- **"/get_realtime_translation"** --> Real-time Translation: Accepts text in one language and returns the original text along with a translation to another language. This feature enables users to automatically translate their comments when posting in the Forum.
-
-- **"/get_dashboard"** --> Dashboard Data Retrieval: Receives an event title and returns all the data that will be displayed on the dashboard.
+<table cellspacing="20">
+  <tr>
+    <td colspan="2" align="center"><h2>"/"</h2></td>
+  </tr>
+  <tr>
+    <td><img src="https://devmountain.com/wp-content/uploads/2022/04/carbon-5.png" alt="Logo" width="100"></td>
+    <td>'Hello world': A simple greeting to ensure the API is up and running.</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h2>"/get_sentiment_analysis_feedback"</h2></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="Logo" width="100"></td>
+    <td>Sentiment Analysis: Provides sentiment analysis for messages posted in the Forum as feedback.</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h2>"/get_cover_image"</h2></td>
+  </tr>
+  <tr>
+    <td><img src="https://pluginicons.craft-cdn.com/craft-dalle.svg?1668086181" alt="Logo" width="100"></td>
+    <td>Cover Image Generation: Generates an image based on the event title.</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h2>"/get_realtime_translation"</h2></td>
+  </tr>
+  <tr>
+    <td><img src="https://seeklogo.com/images/D/deepl-logo-1D3D0FCA56-seeklogo.com.png" alt="Logo" width="100"></td>
+    <td>Real-time Translation: Accepts text in one language and returns the original text along with a translation to another language. This feature enables users to automatically translate their comments when posting in the Forum.</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h2>"/get_dashboard"</h2></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="Logo" width="100"></td>
+    <td>Dashboard Data Retrieval: Receives an event title and returns all the data that will be displayed on the dashboard.</td>
+  </tr>
+</table>
 
 
 ## DATA SCIENCE TEAM 😁🚀

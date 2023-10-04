@@ -48,7 +48,9 @@ At Marina de Empresas, we are committed to delivering outstanding event experien
 The choice to structure our project using the Model-View-Controller (MVC) pattern is based on the pursuit of an efficient and visually organized approach for our application. MVC divides the application into three core components: the Model, responsible for data management and business logic; the View, handling visual representation and the user interface; and the Controller, managing control logic and user interaction. This separation of responsibilities not only simplifies collaborative development but also enhances maintainability by enabling developers to work on specific parts of the project without affecting the whole. Furthermore, it facilitates code reuse, potentially speeding up development, and ensures that the application is scalable and adaptable as it evolves, resulting in a more robust and visually appealing final product. Ultimately, the choice of MVC contributes to a more efficient and successful development experience for our project.
 
 
-<img src="./src/assets/images/admin1.png"> </img> ||| <img src="./src/assets/images/dashbord2.png"> </img>
+<img src="./src/assets/images/admin1.png"> </img> 
+<br> 
+<img src="./src/assets/images/dashbord2.png"> </img>
 
 ## 2 - Installation
 
@@ -396,9 +398,9 @@ To deploy your React and Redux application to a production server, you'll need t
 - Data: contribution to the Database.
 
 <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/128/1387/1387537.png">
-<img align="center"  height="50" width="50" src="https://cdn-icons-png.flaticon.com/128/1849/1849554.png">
-<img align="center" height="50" width="50" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+<img align="center"  height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png">
 <img align="center" height="50" width="100" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
+<img align="center" height="100" width="100" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
 
 --
 
@@ -600,7 +602,7 @@ git push origin my-contribution
         alt="Back-end Project">
       </a>
       <br>
-      <a href="https://github.com/saraoriola/poppaBack">Back-end Project</a>
+      <a href="https://github.com/saraoriola/poppaBack">Visualise The Project Back-end</a>
     </td>
   </tr>
 </table>
