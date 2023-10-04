@@ -515,5 +515,77 @@ git push origin my-contribution
 </table>
 
 
+## 12. DATA SCIENCE TEAM 😁🚀
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Rafa821">
+        <img height="80" width="80" src="https://media.licdn.com/dms/image/D4D03AQGN2Lvyb0guiQ/profile-displayphoto-shrink_400_400/0/1674889639075?e=1701907200&v=beta&t=0-CDnK48cePe7B3carkKwm7TwlJjmrMHE9pJxrVyu38" 
+        alt="Rafa Pérez Die">
+      </a>
+      <br>
+      <a href="https://github.com/Rafa821">Rafa Pérez Die</a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/santiago-corell-vidal-08635623a/">
+        <img height="80" width="80" src="https://media.licdn.com/dms/image/C4E03AQH3x_A-gkes9A/profile-displayphoto-shrink_400_400/0/1652260540856?e=1701907200&v=beta&t=NieVHmNZ-g-XXppUvuKL4k3DUiCNV9NmVFzm-_Ajdl8" alt="Santiago Corell Vidal">
+      </a>
+      <br>
+      <a href="https://www.linkedin.com/in/santiago-corell-vidal-08635623a/">Santiago Corell Vidal</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alejandro-requena-cervera">
+        <img height="80" width="80" src="https://avatars.githubusercontent.com/u/120300003?v=4" alt="Alejandro Requena Cervera">
+      </a>
+      <br>
+      <a href="https://github.com/alejandro-requena-cervera">Alejandro Requena Cervera</a>
+    </td>
+  </tr>
+</table>
 
 
+## 13. UX/UI TEAM 😁🚀
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/miguel-angel-pedrajas/">
+        <img height="80" width="80" src="https://media.licdn.com/dms/image/D4D03AQG0sCZfqkKDCw/profile-displayphoto-shrink_400_400/0/1688146491012?e=1701907200&v=beta&t=zG9gKFWq3EcVuU2PWtTcufbxZ7Cb8q3MRdwxLvC6uzU" 
+        alt="Miguel Ángel Pedrajas Torres">
+      </a>
+      <br>
+      <a href="https://www.linkedin.com/in/miguel-angel-pedrajas/">Miguel Ángel Pedrajas Torres</a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/estefaniaferre/">
+        <img height="80" width="80" src="https://media.licdn.com/dms/image/D4E03AQF8FeEPpUI4mA/profile-displayphoto-shrink_400_400/0/1696327839892?e=1701907200&v=beta&t=VJyltdb1m0GPPtO6WEXsEByB4Lo1nZBMyI5b_elUV_M" alt="Estefanía Ferre Melchor">
+      </a>
+      <br>
+      <a href="https://www.linkedin.com/in/estefaniaferre/">Estefanía Ferre Melchor</a>
+    </td>
+  </tr>
+</table>
+
+
+## 14. CIBERSEGURIDAD TEAM 😁🚀
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/jormanmr/">
+        <img height="80" width="80" src="https://media.licdn.com/dms/image/D4E35AQFCLKu3eNMgyA/profile-framedphoto-shrink_400_400/0/1684797653908?e=1697022000&v=beta&t=vWjlQAkAm8yfrb6wZQhncmcNRuN3LRnFQpfu4oWz3Ws" 
+        alt="Jorman Moncho">
+      </a>
+      <br>
+      <a href="https://www.linkedin.com/in/jormanmr/">Jorman Moncho</a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/alan-estruch-gomez-9b4a61277/">
+        <img height="80" width="80" src="https://media.licdn.com/dms/image/D4D03AQHDylo28BIxjg/profile-displayphoto-shrink_400_400/0/1696413367346?e=1701907200&v=beta&t=U8_a7TXS_uDZNYaiafjuWH2hjEQgKcxDZy_KfI9_U0Q" alt="Alan Estruch Gómez">
+      </a>
+      <br>
+      <a href="https://www.linkedin.com/in/alan-estruch-gomez-9b4a61277/">Alan Estruch Gómez</a>
+    </td>
+  </tr>
+</table>
